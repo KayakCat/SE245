@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("groupWork")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05999faeeb7b737aa87a485ae3d1a8aa2ecd3725")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac0b7906e4390bee3d23602b7237bd715c06874b")]
 [assembly: System.Reflection.AssemblyProductAttribute("groupWork")]
 [assembly: System.Reflection.AssemblyTitleAttribute("groupWork")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
