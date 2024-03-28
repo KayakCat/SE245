@@ -1,0 +1,15 @@
+C:\Users\seek2\OneDrive - New England Institute of Technology\Desktop\SE245\Week1\groupWork\obj\Debug\net8.0\groupWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seek2\OneDrive - New England Institute of Technology\Desktop\SE245\Week1\groupWork\obj\Debug\net8.0\groupWork.AssemblyInfoInputs.cache
+C:\Users\seek2\OneDrive - New England Institute of Technology\Desktop\SE245\Week1\groupWork\obj\Debug\net8.0\groupWork.AssemblyInfo.cs
+C:\Users\seek2\OneDrive - New England Institute of Technology\Desktop\SE245\Week1\groupWork\obj\Debug\net8.0\groupWork.csproj.CoreCompileInputs.cache
+C:\Users\seek2\OneDrive - New England Institute of Technology\Desktop\SE245\Week1\groupWork\obj\Debug\net8.0\groupWork.sourcelink.json
+C:\Users\seek2\OneDrive - New England Institute of Technology\Desktop\SE245\Week1\groupWork\bin\Debug\net8.0\groupWork.exe
+C:\Users\seek2\OneDrive - New England Institute of Technology\Desktop\SE245\Week1\groupWork\bin\Debug\net8.0\groupWork.deps.json
+C:\Users\seek2\OneDrive - New England Institute of Technology\Desktop\SE245\Week1\groupWork\bin\Debug\net8.0\groupWork.runtimeconfig.json
+C:\Users\seek2\OneDrive - New England Institute of Technology\Desktop\SE245\Week1\groupWork\bin\Debug\net8.0\groupWork.dll
+C:\Users\seek2\OneDrive - New England Institute of Technology\Desktop\SE245\Week1\groupWork\bin\Debug\net8.0\groupWork.pdb
+C:\Users\seek2\OneDrive - New England Institute of Technology\Desktop\SE245\Week1\groupWork\obj\Debug\net8.0\groupWork.dll
+C:\Users\seek2\OneDrive - New England Institute of Technology\Desktop\SE245\Week1\groupWork\obj\Debug\net8.0\refint\groupWork.dll
+C:\Users\seek2\OneDrive - New England Institute of Technology\Desktop\SE245\Week1\groupWork\obj\Debug\net8.0\groupWork.pdb
+C:\Users\seek2\OneDrive - New England Institute of Technology\Desktop\SE245\Week1\groupWork\obj\Debug\net8.0\groupWork.genruntimeconfig.cache
+C:\Users\seek2\OneDrive - New England Institute of Technology\Desktop\SE245\Week1\groupWork\obj\Debug\net8.0\ref\groupWork.dll
